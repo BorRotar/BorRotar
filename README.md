@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BorRotar
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning React
 - 📫 How to reach me www.linkedin.com/in/bor-rotar-878206226
 
 <!---
